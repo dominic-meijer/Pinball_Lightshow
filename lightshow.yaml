@@ -1,0 +1,7867 @@
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    quick3: 000000
+    africa: 000000
+    warpRightArrow: 000000
+    quick1: 000000
+    asia: 000000
+    warpLeft4: 000000
+    lockArrow: 000000
+    warpA: 000000
+    centreLock: 000000
+    southAmerica: 000000
+    magnetM: 000000
+    upperArrow: 000000
+    magnetE: 000000
+    liteI: 000000
+    scanN: 000000
+    lock: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    timeWarp: 000000
+    ballSave: 000000
+    quickArrow: 000000
+    videoMode: 000000
+    warpR: 000000
+    magnetT: 000000
+    warpP: 000000
+    mystery: 000000
+    magnetG: 000000
+    warpRight2: 000000
+    holdX: 000000
+    australia: 000000
+    lightVideo: 000000
+    northAmerica: 000000
+    scanA: 000000
+    warpLeftArrow: 000000
+    magnetN: 000000
+    liteT: 000000
+    quick2: 000000
+    scanC: ffffff
+    shootAgain: 000000
+    warpLeft3: 000000
+    bonusRight: 000000
+    leftOrbitArrow: 000000
+    liteE: 000000
+    extraBall: 000000
+    warpLeft5: 000000
+    europe: 000000
+    magnetA: 000000
+    warpW: 000000
+    warpRight5: 000000
+    superWarp: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    centreArrow: 000000
+    liteL: 000000
+    atlantis: 000000
+    antarctica: 000000
+    holdJets: 000000
+    warpRight1: 000000
+    bonusLeft: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+
+- tocks: 1
+  LEDs:
+    mystery: ffffff
+    leftOrbitArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    lightVideo: ffffff
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    holdX: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    warpLeftArrow: ffffff
+    warpLeft5: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    warpLeft2: ffffff
+    warpLeft3: ffffff
+    warpW: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    mystery: 000000
+    magnetG: ffffff
+    leftOrbitArrow: 000000
+    magnetA: ffffff
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    lock: ffffff
+    lightVideo: 000000
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    liteT: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    holdX: 000000
+    warpLeftArrow: 000000
+    liteE: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    upperArrow: ffffff
+    ballSave: ffffff
+    northAmerica: ffffff
+    shootAgain: ffffff
+    warpLeft3: 000000
+    warpLeft5: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    asia: ffffff
+    warpLeft2: 000000
+    australia: ffffff
+    extraBall: ffffff
+    warpLeft1: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    warpR: ffffff
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    magnetM: 000000
+    timeWarp: ffffff
+    magnetG: 000000
+    magnetN: ffffff
+    magnetA: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    centreLock: ffffff
+    southAmerica: ffffff
+    magnetE: ffffff
+    lock: 000000
+    liteL: 000000
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    liteI: 000000
+    magnetT: ffffff
+    liteT: 000000
+    europe: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+    bonusRight: ffffff
+    liteE: 000000
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight4: ffffff
+    ballSave: 000000
+    warpRight2: ffffff
+    australia: 000000
+    northAmerica: 000000
+    shootAgain: 000000
+    warpRight5: ffffff
+    warpRight3: ffffff
+    centreArrow: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    asia: 000000
+    videoMode: 000000
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    warpR: 000000
+    magnetN: 000000
+    quick2: ffffff
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick3: ffffff
+    magnetE: 000000
+    timeWarp: 000000
+    quickArrow: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: 000000
+    southAmerica: 000000
+    magnetT: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    warpP: ffffff
+    bonusRight: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight2: 000000
+    warpRight3: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    warpRight4: 000000
+    warpRight5: 000000
+
+- tocks: 2
+  LEDs:
+    quick3: 000000
+    quick1: 000000
+    scanA: ffffff
+    quick2: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    quickArrow: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    scanN: ffffff
+
+- tocks: 1
+  LEDs:
+    warpP: 000000
+
+- tocks: 3
+  LEDs:
+    warpP: ffffff
+
+- tocks: 1
+  LEDs:
+    scanN: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quickArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: ffffff
+    scanA: 000000
+    quick2: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRightArrow: ffffff
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight4: ffffff
+    warpRight2: ffffff
+    warpRight3: ffffff
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpP: 000000
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    southAmerica: ffffff
+    magnetT: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    centreLock: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    quickArrow: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    quick1: 000000
+    magnetN: ffffff
+    quick2: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    warpR: ffffff
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    asia: ffffff
+    warpRight4: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    shootAgain: ffffff
+    warpRight5: 000000
+    warpRight3: 000000
+    centreArrow: ffffff
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    ballSave: ffffff
+    warpRight2: 000000
+    bonusRight: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+    liteT: ffffff
+    liteE: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    centreLock: 000000
+    southAmerica: 000000
+    liteI: ffffff
+    lock: ffffff
+    liteL: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetE: 000000
+    timeWarp: 000000
+    magnetG: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetN: 000000
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    asia: 000000
+    warpLeft2: ffffff
+    extraBall: 000000
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    ballSave: 000000
+    australia: 000000
+    northAmerica: 000000
+    shootAgain: 000000
+    warpLeft3: ffffff
+    warpLeft5: ffffff
+    centreArrow: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+    holdX: ffffff
+    warpLeftArrow: ffffff
+    liteE: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    liteI: 000000
+    liteT: 000000
+    europe: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    lock: 000000
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    magnetM: 000000
+    mystery: ffffff
+    magnetG: 000000
+    lightVideo: ffffff
+    leftOrbitArrow: ffffff
+    magnetA: 000000
+    superWarp: ffffff
+
+- tocks: 2
+  LEDs:
+    africa: 000000
+    warpLeft2: 000000
+    warpLeft3: 000000
+    warpW: ffffff
+    warpLeft1: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft5: 000000
+
+- tocks: 1
+  LEDs:
+    holdX: 000000
+    warpLeftArrow: 000000
+
+- tocks: 1
+  LEDs:
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    lightVideo: 000000
+    scanC: ffffff
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    mystery: 000000
+    leftOrbitArrow: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+
+- tocks: 1
+  LEDs:
+    warpW: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+
+- tocks: 1
+  LEDs:
+    mystery: ffffff
+    leftOrbitArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    lightVideo: ffffff
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    holdX: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    warpLeftArrow: ffffff
+    warpLeft5: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    warpLeft2: ffffff
+    warpLeft3: ffffff
+    warpW: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    mystery: 000000
+    magnetG: ffffff
+    leftOrbitArrow: 000000
+    magnetA: ffffff
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    lock: ffffff
+    lightVideo: 000000
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    liteT: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    holdX: 000000
+    warpLeftArrow: 000000
+    liteE: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    upperArrow: ffffff
+    ballSave: ffffff
+    northAmerica: ffffff
+    shootAgain: ffffff
+    warpLeft3: 000000
+    warpLeft5: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    asia: ffffff
+    warpLeft2: 000000
+    australia: ffffff
+    extraBall: ffffff
+    warpLeft1: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    warpR: ffffff
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    magnetM: 000000
+    timeWarp: ffffff
+    magnetG: 000000
+    magnetN: ffffff
+    magnetA: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    centreLock: ffffff
+    southAmerica: ffffff
+    magnetE: ffffff
+    lock: 000000
+    liteL: 000000
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    liteI: 000000
+    magnetT: ffffff
+    liteT: 000000
+    europe: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+    bonusRight: ffffff
+    liteE: 000000
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight4: ffffff
+    ballSave: 000000
+    warpRight2: ffffff
+    australia: 000000
+    northAmerica: 000000
+    shootAgain: 000000
+    warpRight5: ffffff
+    warpRight3: ffffff
+    centreArrow: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    asia: 000000
+    videoMode: 000000
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    warpR: 000000
+    magnetN: 000000
+    quick2: ffffff
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick3: ffffff
+    magnetE: 000000
+    timeWarp: 000000
+    quickArrow: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: 000000
+    southAmerica: 000000
+    magnetT: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    warpP: ffffff
+    bonusRight: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight2: 000000
+    warpRight3: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    warpRight4: 000000
+    warpRight5: 000000
+
+- tocks: 2
+  LEDs:
+    quick3: 000000
+    quick1: 000000
+    scanA: ffffff
+    quick2: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    quickArrow: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    scanN: ffffff
+
+- tocks: 1
+  LEDs:
+    warpP: 000000
+
+- tocks: 3
+  LEDs:
+    warpP: ffffff
+
+- tocks: 1
+  LEDs:
+    scanN: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quickArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: ffffff
+    scanA: 000000
+    quick2: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRightArrow: ffffff
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight4: ffffff
+    warpRight2: ffffff
+    warpRight3: ffffff
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpP: 000000
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    southAmerica: ffffff
+    magnetT: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    centreLock: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    quickArrow: 000000
+    bonusLeft: ffffff
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    quick1: 000000
+    magnetN: ffffff
+    quick2: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    warpR: ffffff
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    asia: ffffff
+    warpRight4: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    shootAgain: ffffff
+    warpRight5: 000000
+    warpRight3: 000000
+    centreArrow: ffffff
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    ballSave: ffffff
+    warpRight2: 000000
+    bonusRight: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+    liteT: ffffff
+    liteE: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    centreLock: 000000
+    southAmerica: 000000
+    liteI: ffffff
+    lock: ffffff
+    liteL: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetE: 000000
+    timeWarp: 000000
+    magnetG: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetN: 000000
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    asia: 000000
+    warpLeft2: ffffff
+    extraBall: 000000
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    ballSave: 000000
+    australia: 000000
+    northAmerica: 000000
+    shootAgain: 000000
+    warpLeft3: ffffff
+    warpLeft5: ffffff
+    centreArrow: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+    holdX: ffffff
+    warpLeftArrow: ffffff
+    liteE: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    liteI: 000000
+    liteT: 000000
+    europe: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    lock: 000000
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    magnetM: 000000
+    mystery: ffffff
+    magnetG: 000000
+    lightVideo: ffffff
+    leftOrbitArrow: ffffff
+    magnetA: 000000
+    superWarp: ffffff
+
+- tocks: 2
+  LEDs:
+    africa: 000000
+    warpLeft2: 000000
+    warpLeft3: 000000
+    warpW: ffffff
+    warpLeft1: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft5: 000000
+
+- tocks: 1
+  LEDs:
+    holdX: 000000
+    warpLeftArrow: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    lightVideo: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    mystery: 000000
+    leftOrbitArrow: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+
+- tocks: 1
+  LEDs:
+    warpW: 000000
+
+- tocks: 2
+  LEDs:
+    scanS: 000000
+    upperArrow: ffffff
+    scanC: 000000
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    extraBall: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    videoMode: ffffff
+    warpR: ffffff
+    magnetG: ffffff
+    magnetN: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    scanner: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    magnetM: ffffff
+    magnetE: ffffff
+    timeWarp: ffffff
+    europe: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    upperArrow: 000000
+    magnetT: ffffff
+    australia: ffffff
+    extraBall: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    warpRight4: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: 000000
+    northAmerica: ffffff
+    warpLeftArrow: ffffff
+    magnetN: 000000
+    liteT: 000000
+    liteE: 000000
+    warpLeft5: ffffff
+    warpRight5: ffffff
+    warpRight3: ffffff
+    scanner: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lockArrow: 000000
+    magnetM: 000000
+    magnetE: 000000
+    warpLeft2: ffffff
+    timeWarp: 000000
+    warpRight2: ffffff
+    warpLeft3: ffffff
+    europe: 000000
+    magnetA: 000000
+    warpRight1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: ffffff
+    centreLock: 000000
+    southAmerica: ffffff
+    quickArrow: ffffff
+    magnetT: 000000
+    mystery: ffffff
+    australia: 000000
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: ffffff
+    warpRightArrow: 000000
+    quick1: ffffff
+    warpRight4: 000000
+    warpP: ffffff
+    lightVideo: ffffff
+    northAmerica: 000000
+    warpLeftArrow: 000000
+    quick2: ffffff
+    bonusRight: ffffff
+    warpLeft5: 000000
+    warpW: ffffff
+    warpRight5: 000000
+    superWarp: ffffff
+    warpRight3: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpLeft2: 000000
+    warpRight2: 000000
+    scanC: ffffff
+    warpLeft3: 000000
+    holdJets: ffffff
+    warpRight1: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: 000000
+    asia: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    quickArrow: 000000
+    mystery: 000000
+    holdX: ffffff
+    scanA: ffffff
+    leftOrbitArrow: 000000
+    warpLeft1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    africa: 000000
+    quick1: 000000
+    ballSave: ffffff
+    warpP: 000000
+    lightVideo: 000000
+    quick2: 000000
+    bonusRight: 000000
+    warpW: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    scanC: 000000
+    shootAgain: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    scanN: 000000
+    holdX: 000000
+    scanA: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+
+- tocks: 1
+  LEDs:
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    asia: ffffff
+    warpLeft4: ffffff
+    warpLeft2: ffffff
+    mystery: ffffff
+    warpLeft3: ffffff
+    leftOrbitArrow: ffffff
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    scanA: ffffff
+    quick2: ffffff
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    quick1: 000000
+    scanN: ffffff
+    warpLeft3: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    southAmerica: ffffff
+    scanA: 000000
+    leftOrbitArrow: 000000
+
+- tocks: 1
+  LEDs:
+    asia: 000000
+    scanN: 000000
+    quick2: 000000
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    warpP: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    quick5: ffffff
+    quick3: 000000
+    mystery: 000000
+    lightVideo: ffffff
+    warpW: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft2: 000000
+
+- tocks: 1
+  LEDs:
+    southAmerica: 000000
+    quickArrow: ffffff
+    warpP: 000000
+    scanC: ffffff
+    warpRight1: ffffff
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpRight2: ffffff
+
+- tocks: 1
+  LEDs:
+    northAmerica: ffffff
+    warpRight3: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpRight4: ffffff
+    quickArrow: 000000
+    superWarp: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    warpRight2: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    lightVideo: 000000
+    scanC: 000000
+    warpRight3: 000000
+    atlantis: ffffff
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+    timeWarp: ffffff
+    magnetT: ffffff
+    warpRight5: 000000
+    atlantis: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    magnetE: ffffff
+    holdX: ffffff
+    australia: ffffff
+    magnetN: ffffff
+    bonusRight: ffffff
+    scanner: ffffff
+    warpLeft1: 000000
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    warpR: ffffff
+    extraBall: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: 000000
+    upperArrow: ffffff
+    magnetT: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    magnetE: 000000
+    timeWarp: 000000
+    ballSave: ffffff
+    liteT: ffffff
+    shootAgain: ffffff
+    bonusRight: 000000
+    liteE: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    warpA: ffffff
+    liteI: ffffff
+    lock: ffffff
+    magnetN: 000000
+    scanner: 000000
+    liteL: ffffff
+    holdJets: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    videoMode: 000000
+    warpR: 000000
+    magnetG: ffffff
+    holdX: 000000
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    australia: 000000
+    magnetA: ffffff
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    southAmerica: ffffff
+    upperArrow: 000000
+    ballSave: 000000
+    shootAgain: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    warpA: 000000
+    liteI: 000000
+    lock: 000000
+    liteT: 000000
+    liteE: 000000
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    asia: 000000
+    lockArrow: 000000
+    quick2: ffffff
+    europe: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    magnetG: 000000
+    scanA: ffffff
+    magnetA: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    scanN: ffffff
+
+- tocks: 1
+  LEDs:
+    quick1: 000000
+    magnetM: 000000
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    southAmerica: 000000
+    warpP: ffffff
+    northAmerica: 000000
+    warpLeftArrow: ffffff
+    quick2: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    scanA: 000000
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    scanN: 000000
+
+- tocks: 1
+  LEDs:
+    quickArrow: ffffff
+    warpRight2: ffffff
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpP: 000000
+    warpLeft5: ffffff
+    warpRight3: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight4: ffffff
+    australia: ffffff
+    antarctica: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    quickArrow: 000000
+    warpRight2: 000000
+    leftOrbitArrow: ffffff
+    warpRight5: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRightArrow: ffffff
+    warpLeft4: ffffff
+    centreLock: ffffff
+    warpLeftArrow: 000000
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+    warpW: ffffff
+
+- tocks: 2
+  LEDs:
+    timeWarp: ffffff
+    mystery: ffffff
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    warpRightArrow: 000000
+    magnetT: ffffff
+    warpLeft3: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetE: ffffff
+    australia: 000000
+    scanC: ffffff
+    leftOrbitArrow: 000000
+    superWarp: ffffff
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: 000000
+    warpLeft2: ffffff
+    videoMode: ffffff
+    warpLeft5: 000000
+    warpW: 000000
+
+- tocks: 1
+  LEDs:
+    lightVideo: ffffff
+    magnetN: ffffff
+    bonusRight: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    timeWarp: 000000
+    warpR: ffffff
+    magnetT: 000000
+    mystery: 000000
+    extraBall: ffffff
+    warpLeft1: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    scanC: 000000
+    superWarp: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    upperArrow: ffffff
+    magnetE: 000000
+    holdX: ffffff
+    warpLeft3: 000000
+    liteE: ffffff
+    scanner: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft2: 000000
+    lightVideo: 000000
+    magnetN: 000000
+    bonusRight: 000000
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    ballSave: ffffff
+    videoMode: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    liteT: ffffff
+    shootAgain: ffffff
+    warpLeft1: 000000
+    antarctica: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    warpA: ffffff
+    liteI: ffffff
+    warpR: 000000
+    holdX: 000000
+    extraBall: 000000
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    southAmerica: ffffff
+    lock: ffffff
+    ballSave: 000000
+    shootAgain: 000000
+    centreArrow: 000000
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    asia: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+    magnetG: ffffff
+    northAmerica: 000000
+    quick2: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: 000000
+    southAmerica: 000000
+    scanA: ffffff
+    europe: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    warpA: 000000
+    scanN: ffffff
+    quick2: 000000
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    lockArrow: 000000
+    scanN: 000000
+    warpP: ffffff
+    warpRight2: ffffff
+    australia: 000000
+    scanA: 000000
+    magnetA: ffffff
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    lock: 000000
+    quickArrow: ffffff
+    warpP: 000000
+    warpRight3: ffffff
+    liteL: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight4: ffffff
+    warpRight2: 000000
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    liteI: 000000
+    quickArrow: 000000
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+    timeWarp: ffffff
+    warpRight5: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRightArrow: ffffff
+    centreLock: 000000
+    warpRight5: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    liteE: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    magnetM: ffffff
+    timeWarp: 000000
+    magnetG: 000000
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    magnetT: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetE: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetN: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetE: 000000
+    videoMode: 000000
+    warpLeftArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    leftOrbitArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    liteI: ffffff
+    warpR: ffffff
+    warpLeft5: ffffff
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    mystery: ffffff
+    magnetN: 000000
+    bonusRight: ffffff
+    liteE: ffffff
+    magnetA: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    scanC: ffffff
+    warpLeft3: ffffff
+    extraBall: 000000
+    superWarp: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    liteI: 000000
+    warpLeft2: ffffff
+    lightVideo: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    africa: ffffff
+    magnetM: 000000
+    warpR: 000000
+    warpLeftArrow: 000000
+    bonusRight: 000000
+    leftOrbitArrow: 000000
+    warpW: 000000
+    warpLeft1: ffffff
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    mystery: 000000
+    holdX: ffffff
+    scanC: 000000
+    warpLeft5: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    warpLeft4: 000000
+    ballSave: ffffff
+    australia: ffffff
+    northAmerica: ffffff
+    shootAgain: ffffff
+    superWarp: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    southAmerica: ffffff
+    warpLeft2: 000000
+    lightVideo: 000000
+    warpLeft3: 000000
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    quick1: ffffff
+    holdX: 000000
+    quick2: ffffff
+    warpLeft1: 000000
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    warpA: ffffff
+    ballSave: 000000
+    scanA: ffffff
+    liteT: 000000
+    shootAgain: 000000
+    europe: 000000
+    centreArrow: 000000
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: 000000
+    centreLock: ffffff
+    scanN: ffffff
+    timeWarp: ffffff
+    videoMode: ffffff
+    warpP: ffffff
+    warpRight2: ffffff
+    northAmerica: 000000
+    liteE: 000000
+    warpRight3: ffffff
+    scanner: ffffff
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: 000000
+    southAmerica: 000000
+    warpRight4: ffffff
+    quickArrow: ffffff
+    australia: 000000
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    lockArrow: ffffff
+    quick2: 000000
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    upperArrow: 000000
+    warpRight2: 000000
+    scanA: 000000
+    centreArrow: ffffff
+    warpRight1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    centreLock: 000000
+    scanN: 000000
+    magnetT: ffffff
+    warpP: 000000
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    magnetE: ffffff
+    warpRight4: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    videoMode: 000000
+    magnetN: ffffff
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+
+- tocks: 1
+  LEDs:
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+
+- tocks: 1
+  LEDs:
+    magnetE: 000000
+    warpR: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetN: 000000
+
+- tocks: 1
+  LEDs:
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+
+- tocks: 3
+  LEDs:
+    lock: ffffff
+    warpR: 000000
+
+- tocks: 2
+  LEDs:
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetG: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    bonusRight: 000000
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    magnetM: ffffff
+    liteI: ffffff
+    warpLeftArrow: ffffff
+    leftOrbitArrow: ffffff
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    mystery: ffffff
+    scanC: ffffff
+    warpLeft5: ffffff
+    superWarp: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    warpLeft2: ffffff
+    lightVideo: ffffff
+    liteT: ffffff
+    warpLeft3: ffffff
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    africa: ffffff
+    upperArrow: ffffff
+    lock: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: ffffff
+    warpLeftArrow: 000000
+    scanC: 000000
+    leftOrbitArrow: 000000
+    liteE: ffffff
+    europe: ffffff
+    warpW: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    warpLeft4: 000000
+    magnetM: 000000
+    ballSave: ffffff
+    australia: ffffff
+    lightVideo: 000000
+    northAmerica: ffffff
+    shootAgain: ffffff
+    warpLeft3: 000000
+    warpLeft5: 000000
+    magnetA: 000000
+    superWarp: 000000
+    centreArrow: ffffff
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    southAmerica: ffffff
+    liteI: 000000
+    warpLeft2: 000000
+    holdX: 000000
+    extraBall: ffffff
+    warpLeft1: 000000
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    asia: 000000
+    timeWarp: ffffff
+    ballSave: 000000
+    videoMode: ffffff
+    northAmerica: 000000
+    liteT: 000000
+    quick2: ffffff
+    shootAgain: 000000
+    liteE: 000000
+    europe: 000000
+    scanner: ffffff
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick3: ffffff
+    quick1: 000000
+    centreLock: ffffff
+    southAmerica: 000000
+    upperArrow: 000000
+    warpRight2: ffffff
+    australia: 000000
+    scanA: ffffff
+    warpRight3: ffffff
+    antarctica: 000000
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    scanN: ffffff
+    warpRight4: ffffff
+    quickArrow: ffffff
+    warpP: ffffff
+    scanA: 000000
+    magnetN: ffffff
+    quick2: 000000
+    warpRight5: ffffff
+    warpRight1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpRightArrow: ffffff
+    centreLock: 000000
+    magnetE: ffffff
+    scanN: 000000
+    warpRight4: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    videoMode: 000000
+    warpR: ffffff
+    magnetT: ffffff
+    warpP: 000000
+    warpRight2: 000000
+    extraBall: 000000
+    warpRight3: 000000
+    scanner: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    magnetE: 000000
+    magnetT: 000000
+    magnetN: 000000
+
+- tocks: 1
+  LEDs:
+    warpR: 000000
+
+- tocks: 9
+  LEDs:
+    lockArrow: ffffff
+
+- tocks: 4
+  LEDs:
+    warpA: ffffff
+
+- tocks: 1
+  LEDs:
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetG: ffffff
+    bonusRight: 000000
+
+- tocks: 1
+  LEDs:
+    leftOrbitArrow: ffffff
+    magnetA: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    magnetM: ffffff
+    liteI: ffffff
+    mystery: ffffff
+    warpLeftArrow: ffffff
+    scanC: ffffff
+    warpLeft5: ffffff
+    warpW: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    lightVideo: ffffff
+    liteT: ffffff
+    warpLeft3: ffffff
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    upperArrow: ffffff
+    warpLeft2: ffffff
+    liteE: ffffff
+    europe: ffffff
+    warpLeft1: ffffff
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    africa: ffffff
+    lock: 000000
+    magnetG: 000000
+    holdX: ffffff
+    warpLeftArrow: 000000
+    leftOrbitArrow: 000000
+    warpW: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    magnetM: 000000
+    ballSave: ffffff
+    mystery: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    scanC: 000000
+    shootAgain: ffffff
+    warpLeft5: 000000
+    magnetA: 000000
+    superWarp: 000000
+    liteL: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    warpLeft4: 000000
+    southAmerica: ffffff
+    warpLeft2: 000000
+    lightVideo: 000000
+    warpLeft3: 000000
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    africa: 000000
+    centreLock: ffffff
+    liteI: 000000
+    timeWarp: ffffff
+    videoMode: ffffff
+    holdX: 000000
+    liteT: 000000
+    quick2: ffffff
+    scanner: ffffff
+    warpLeft1: 000000
+    holdJets: 000000
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: 000000
+    ballSave: 000000
+    warpRight2: ffffff
+    northAmerica: 000000
+    scanA: ffffff
+    shootAgain: 000000
+    liteE: 000000
+    europe: 000000
+    warpRight3: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    southAmerica: 000000
+    upperArrow: 000000
+    scanN: ffffff
+    warpRight4: ffffff
+    quickArrow: ffffff
+    warpP: ffffff
+    australia: 000000
+    warpRight5: ffffff
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: 000000
+    quick2: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    warpRightArrow: ffffff
+    magnetE: ffffff
+    magnetT: ffffff
+    warpRight2: 000000
+    scanA: 000000
+    magnetN: ffffff
+    warpRight1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    centreLock: 000000
+    scanN: 000000
+    timeWarp: 000000
+    warpP: 000000
+    warpRight3: 000000
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+    quickArrow: 000000
+    videoMode: 000000
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    lockArrow: ffffff
+    warpA: ffffff
+
+- tocks: 1
+  LEDs:
+    warpR: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+
+- tocks: 1
+  LEDs:
+    magnetE: 000000
+
+- tocks: 2
+  LEDs:
+    lockArrow: 000000
+    lock: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetN: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+
+- tocks: 2
+  LEDs:
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetG: ffffff
+
+- tocks: 2
+  LEDs:
+    liteI: ffffff
+    lock: 000000
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeftArrow: ffffff
+    leftOrbitArrow: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    magnetG: 000000
+    liteT: ffffff
+    warpLeft5: ffffff
+    warpW: ffffff
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    upperArrow: ffffff
+    mystery: ffffff
+    scanC: ffffff
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpLeft2: ffffff
+    warpR: 000000
+    lightVideo: ffffff
+    warpLeftArrow: 000000
+    warpLeft3: ffffff
+    bonusRight: 000000
+    leftOrbitArrow: 000000
+    liteE: ffffff
+    magnetA: 000000
+    warpW: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: 000000
+    mystery: 000000
+    scanC: 000000
+    warpLeft5: 000000
+    europe: ffffff
+    superWarp: 000000
+    warpLeft1: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    warpLeft4: 000000
+    liteI: 000000
+    holdX: ffffff
+    lightVideo: 000000
+    warpLeft3: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    asia: ffffff
+    warpLeft2: 000000
+    ballSave: ffffff
+    holdX: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    shootAgain: ffffff
+    warpLeft1: 000000
+    antarctica: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: 000000
+    liteT: 000000
+    shootAgain: 000000
+    europe: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    asia: 000000
+    warpA: ffffff
+    southAmerica: ffffff
+    northAmerica: 000000
+    liteE: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: 000000
+    southAmerica: 000000
+    australia: 000000
+    quick2: ffffff
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    warpRight2: ffffff
+    scanA: ffffff
+    quick2: 000000
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick3: 000000
+    centreLock: ffffff
+    scanN: ffffff
+    lock: ffffff
+    timeWarp: ffffff
+    warpP: ffffff
+    scanA: 000000
+    warpRight3: ffffff
+    warpRight1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    scanN: 000000
+    warpRight4: ffffff
+    quickArrow: ffffff
+    warpRight2: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    warpP: 000000
+    warpRight3: 000000
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    quickArrow: 000000
+    videoMode: ffffff
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    centreLock: 000000
+    warpRight4: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    liteI: ffffff
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    timeWarp: 000000
+    magnetG: ffffff
+
+- tocks: 1
+  LEDs:
+    lock: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: ffffff
+    liteT: ffffff
+    magnetA: ffffff
+    liteL: 000000
+
+- tocks: 3
+  LEDs:
+    magnetM: ffffff
+    upperArrow: 000000
+    liteI: 000000
+    magnetG: 000000
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    magnetE: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetT: 000000
+    liteE: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeftArrow: ffffff
+    magnetA: 000000
+
+- tocks: 1
+  LEDs:
+    magnetN: ffffff
+    leftOrbitArrow: ffffff
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    liteT: 000000
+    warpLeft5: ffffff
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    magnetM: 000000
+    magnetE: 000000
+    mystery: ffffff
+    europe: ffffff
+
+- tocks: 1
+  LEDs:
+    warpR: ffffff
+    scanC: ffffff
+    warpLeft3: ffffff
+    bonusRight: ffffff
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    warpLeft2: ffffff
+    lightVideo: ffffff
+    warpLeftArrow: 000000
+    leftOrbitArrow: 000000
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpW: 000000
+    warpLeft1: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    videoMode: 000000
+    mystery: 000000
+    holdX: ffffff
+    magnetN: 000000
+    bonusRight: 000000
+    warpLeft5: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    northAmerica: ffffff
+    scanC: 000000
+    superWarp: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    warpLeft2: 000000
+    ballSave: ffffff
+    warpR: 000000
+    australia: ffffff
+    lightVideo: 000000
+    liteT: ffffff
+    shootAgain: ffffff
+    warpLeft3: 000000
+    extraBall: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    warpLeft1: 000000
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    quick1: ffffff
+    southAmerica: ffffff
+    liteI: ffffff
+    holdX: 000000
+    centreArrow: 000000
+    liteL: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    lock: ffffff
+    ballSave: 000000
+    quick2: ffffff
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    asia: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    scanA: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetG: ffffff
+    europe: 000000
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick1: 000000
+    warpA: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    warpP: ffffff
+    warpRight2: ffffff
+    magnetA: ffffff
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    lock: 000000
+    quick2: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    liteI: 000000
+    quickArrow: ffffff
+    scanA: 000000
+    europe: ffffff
+    warpRight3: ffffff
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    scanN: 000000
+    liteT: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpRight4: ffffff
+    magnetG: 000000
+    australia: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    warpP: 000000
+    liteE: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight2: 000000
+    magnetA: 000000
+
+- tocks: 1
+  LEDs:
+    quickArrow: 000000
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    magnetM: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeftArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft5: ffffff
+
+- tocks: 1
+  LEDs:
+    timeWarp: ffffff
+    australia: ffffff
+    leftOrbitArrow: ffffff
+    europe: 000000
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    warpLeftArrow: 000000
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetT: ffffff
+    mystery: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    warpRightArrow: 000000
+    warpLeft3: ffffff
+    leftOrbitArrow: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetE: ffffff
+    scanC: ffffff
+    warpLeft5: 000000
+    warpW: 000000
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpLeft4: 000000
+    centreLock: 000000
+    warpLeft2: ffffff
+    mystery: 000000
+    lightVideo: ffffff
+
+- tocks: 1
+  LEDs:
+    videoMode: ffffff
+    magnetN: ffffff
+    bonusRight: ffffff
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    warpR: ffffff
+    scanC: 000000
+    warpLeft3: 000000
+    extraBall: ffffff
+    superWarp: 000000
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    warpLeft2: 000000
+    timeWarp: 000000
+    magnetT: 000000
+    lightVideo: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    magnetE: 000000
+    holdX: ffffff
+    bonusRight: 000000
+    liteE: ffffff
+    europe: ffffff
+    warpLeft1: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    northAmerica: ffffff
+    liteT: ffffff
+    scanner: 000000
+    antarctica: ffffff
+    holdJets: 000000
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    warpA: ffffff
+    liteI: ffffff
+    ballSave: ffffff
+    videoMode: 000000
+    warpR: 000000
+    holdX: 000000
+    magnetN: 000000
+    shootAgain: ffffff
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    lock: ffffff
+    ballSave: 000000
+    shootAgain: 000000
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    magnetG: ffffff
+    australia: 000000
+    magnetA: ffffff
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    asia: 000000
+    southAmerica: ffffff
+    magnetM: ffffff
+    upperArrow: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    warpA: 000000
+    liteT: 000000
+    liteE: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    liteI: 000000
+    lock: 000000
+    quick2: ffffff
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: 000000
+    magnetG: 000000
+    northAmerica: 000000
+    scanA: ffffff
+    europe: 000000
+
+- tocks: 1
+  LEDs:
+    southAmerica: 000000
+    quick2: 000000
+    magnetA: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: 000000
+    scanN: ffffff
+    scanA: 000000
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    warpLeftArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    scanN: 000000
+    warpP: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight1: ffffff
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpP: 000000
+    warpLeft5: ffffff
+
+- tocks: 1
+  LEDs:
+    quickArrow: ffffff
+    warpRight2: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRight3: ffffff
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    quickArrow: 000000
+    warpRight2: 000000
+    leftOrbitArrow: ffffff
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    warpRight4: ffffff
+    australia: ffffff
+    warpLeftArrow: 000000
+
+- tocks: 1
+  LEDs:
+    warpW: ffffff
+    warpRight5: ffffff
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    centreLock: ffffff
+    mystery: ffffff
+    warpLeft3: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    timeWarp: ffffff
+    leftOrbitArrow: 000000
+    warpLeft5: 000000
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft2: ffffff
+    magnetT: ffffff
+    lightVideo: ffffff
+    scanC: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: 000000
+    magnetE: ffffff
+    warpW: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpLeft4: 000000
+    videoMode: ffffff
+    mystery: 000000
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    timeWarp: 000000
+    magnetT: 000000
+    magnetN: ffffff
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetE: 000000
+    warpR: ffffff
+    holdX: ffffff
+    scanC: 000000
+    warpLeft3: 000000
+    extraBall: ffffff
+    europe: ffffff
+    superWarp: 000000
+    holdJets: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    lightVideo: 000000
+    northAmerica: ffffff
+    bonusRight: 000000
+    liteE: ffffff
+    scanner: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    warpLeft2: 000000
+    ballSave: ffffff
+    magnetN: 000000
+    shootAgain: ffffff
+    antarctica: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    liteI: ffffff
+    videoMode: 000000
+    warpR: 000000
+    liteT: ffffff
+    warpLeft1: 000000
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    warpA: ffffff
+    southAmerica: ffffff
+    lock: ffffff
+    holdX: 000000
+    extraBall: 000000
+    liteL: ffffff
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    lockArrow: ffffff
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+    ballSave: 000000
+    magnetG: ffffff
+    quick2: ffffff
+    shootAgain: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    asia: 000000
+    northAmerica: 000000
+    scanA: ffffff
+    magnetA: ffffff
+
+- tocks: 1
+  LEDs:
+    warpA: 000000
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick1: 000000
+    lockArrow: 000000
+    southAmerica: 000000
+    scanN: ffffff
+    lock: 000000
+    liteL: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    liteI: 000000
+    warpP: ffffff
+    warpRight2: ffffff
+    liteT: 000000
+    quick2: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    quickArrow: ffffff
+    scanA: 000000
+    warpRight3: ffffff
+
+- tocks: 1
+  LEDs:
+    scanN: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpRight4: ffffff
+    warpP: 000000
+    magnetG: 000000
+    australia: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight2: 000000
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    quickArrow: 000000
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    europe: 000000
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    timeWarp: ffffff
+    magnetA: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight4: 000000
+
+- tocks: 1
+  LEDs:
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    centreLock: 000000
+    magnetT: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: ffffff
+    videoMode: ffffff
+    warpLeftArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    timeWarp: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+    magnetN: ffffff
+    leftOrbitArrow: ffffff
+    extraBall: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft5: ffffff
+    warpW: ffffff
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    warpLeft4: ffffff
+    warpR: ffffff
+    mystery: ffffff
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    magnetE: 000000
+    warpLeftArrow: 000000
+    liteT: ffffff
+    scanC: ffffff
+    leftOrbitArrow: 000000
+    europe: ffffff
+    superWarp: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpLeft3: ffffff
+    warpW: 000000
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft2: ffffff
+    videoMode: 000000
+    mystery: 000000
+    lightVideo: ffffff
+    magnetN: 000000
+    scanC: 000000
+    warpLeft5: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    lightVideo: 000000
+    warpLeft3: 000000
+    bonusRight: 000000
+    superWarp: 000000
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    africa: ffffff
+    warpLeft2: 000000
+    holdX: ffffff
+    warpLeft1: 000000
+    holdJets: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    ballSave: ffffff
+    warpR: 000000
+    holdX: 000000
+    northAmerica: ffffff
+    shootAgain: ffffff
+    extraBall: 000000
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    warpA: ffffff
+    ballSave: 000000
+    australia: ffffff
+    shootAgain: 000000
+    europe: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    asia: 000000
+    southAmerica: ffffff
+    northAmerica: 000000
+    liteT: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    lockArrow: ffffff
+    southAmerica: 000000
+    quick2: ffffff
+    liteE: 000000
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: 000000
+    lock: ffffff
+    australia: 000000
+    scanA: ffffff
+    quick2: 000000
+    liteL: ffffff
+    warpRight1: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    quick3: 000000
+    scanN: ffffff
+    warpRight2: ffffff
+    scanA: 000000
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    centreLock: ffffff
+    scanN: 000000
+    quickArrow: ffffff
+    warpP: ffffff
+    warpRight3: ffffff
+    warpRight1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpA: 000000
+    warpRight4: ffffff
+    timeWarp: ffffff
+    warpP: 000000
+    warpRight2: 000000
+
+- tocks: 1
+  LEDs:
+    liteI: ffffff
+    quickArrow: 000000
+    warpRight5: ffffff
+    warpRight3: 000000
+    scanner: ffffff
+
+- tocks: 1
+  LEDs:
+    lockArrow: 000000
+    centreLock: 000000
+    warpRight4: 000000
+    videoMode: ffffff
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    timeWarp: 000000
+    warpRight5: 000000
+
+- tocks: 2
+  LEDs:
+    warpRightArrow: 000000
+    magnetT: ffffff
+    extraBall: ffffff
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    magnetE: ffffff
+    lock: 000000
+    magnetG: ffffff
+
+- tocks: 1
+  LEDs:
+    videoMode: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+    magnetN: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: 000000
+
+- tocks: 1
+  LEDs:
+    magnetE: 000000
+
+- tocks: 1
+  LEDs:
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    magnetN: 000000
+    magnetA: ffffff
+    centreArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    warpR: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeftArrow: ffffff
+    leftOrbitArrow: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    liteT: ffffff
+    bonusRight: ffffff
+    warpW: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: ffffff
+    upperArrow: ffffff
+    warpR: 000000
+    mystery: ffffff
+    scanC: ffffff
+    bonusRight: 000000
+    warpLeft5: ffffff
+    bonusLeft: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetG: 000000
+    lightVideo: ffffff
+    warpLeft3: ffffff
+    liteE: ffffff
+    superWarp: ffffff
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    warpLeft2: ffffff
+    europe: ffffff
+    magnetA: 000000
+    warpLeft1: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    africa: ffffff
+    magnetM: 000000
+    holdX: ffffff
+    warpLeftArrow: 000000
+    leftOrbitArrow: 000000
+    warpW: 000000
+    holdJets: ffffff
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    ballSave: ffffff
+    mystery: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    scanC: 000000
+    shootAgain: ffffff
+    warpLeft5: 000000
+    superWarp: 000000
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    southAmerica: ffffff
+    liteI: 000000
+    warpLeft2: 000000
+    lightVideo: 000000
+    warpLeft3: 000000
+
+- tocks: 1
+  LEDs:
+    africa: 000000
+    quick1: ffffff
+    holdX: 000000
+    quick2: ffffff
+    warpLeft1: 000000
+    holdJets: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    centreLock: ffffff
+    timeWarp: ffffff
+    ballSave: 000000
+    videoMode: ffffff
+    warpRight2: ffffff
+    scanA: ffffff
+    liteT: 000000
+    shootAgain: 000000
+    liteE: 000000
+    extraBall: ffffff
+    europe: 000000
+    scanner: ffffff
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick5: ffffff
+    asia: 000000
+    scanN: ffffff
+    warpRight4: ffffff
+    warpP: ffffff
+    australia: 000000
+    northAmerica: 000000
+    warpRight3: ffffff
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick1: 000000
+    southAmerica: 000000
+    upperArrow: 000000
+    quickArrow: ffffff
+    warpRight5: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    scanA: 000000
+    quick2: 000000
+    warpRight1: 000000
+
+- tocks: 1
+  LEDs:
+    quick5: 000000
+    warpRightArrow: ffffff
+    magnetE: ffffff
+    scanN: 000000
+    magnetT: ffffff
+    warpRight2: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    warpA: ffffff
+    centreLock: 000000
+    warpRight4: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpP: 000000
+    magnetN: ffffff
+    warpRight3: 000000
+    scanner: 000000
+
+- tocks: 1
+  LEDs:
+    videoMode: 000000
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    lockArrow: ffffff
+    extraBall: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    warpR: ffffff
+
+- tocks: 1
+  LEDs:
+    magnetE: 000000
+    magnetT: 000000
+    centreArrow: 000000
+
+- tocks: 1
+  LEDs:
+    magnetN: 000000
+
+- tocks: 5
+  LEDs:
+    warpR: 000000
+
+- tocks: 5
+  LEDs:
+    lockArrow: 000000
+    bonusRight: ffffff
+
+- tocks: 1
+  LEDs:
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 3
+  LEDs:
+    magnetG: ffffff
+    bonusRight: 000000
+    liteL: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: ffffff
+    warpLeftArrow: ffffff
+    leftOrbitArrow: ffffff
+    magnetA: ffffff
+    warpW: ffffff
+    bonusLeft: 000000
+
+- tocks: 1
+  LEDs:
+    magnetM: ffffff
+    liteI: ffffff
+    mystery: ffffff
+    scanC: ffffff
+    warpLeft5: ffffff
+
+- tocks: 1
+  LEDs:
+    scanS: 000000
+    warpLeft4: ffffff
+    warpA: 000000
+    lock: 000000
+    lightVideo: ffffff
+    warpLeft3: ffffff
+    leftOrbitArrow: 000000
+    warpW: 000000
+    superWarp: ffffff
+
+- tocks: 1
+  LEDs:
+    warpLeft4: 000000
+    magnetM: 000000
+    warpLeft2: ffffff
+    mystery: 000000
+    magnetG: 000000
+    warpLeftArrow: 000000
+    liteT: ffffff
+    scanC: 000000
+    liteE: ffffff
+    warpLeft5: 000000
+    magnetA: 000000
+    superWarp: 000000
+    warpLeft1: ffffff
+
+- tocks: 1
+  LEDs:
+    upperArrow: ffffff
+    liteI: 000000
+    warpLeft2: 000000
+    holdX: ffffff
+    lightVideo: 000000
+    warpLeft3: 000000
+    europe: ffffff
+    warpLeft1: 000000
+    liteL: 000000
+
+- tocks: 1
+  LEDs:
+    asia: ffffff
+    holdX: 000000
+    australia: ffffff
+    northAmerica: ffffff
+    liteT: 000000
+    liteE: 000000
+    europe: 000000
+    centreArrow: ffffff
+    antarctica: ffffff
+
+- tocks: 1
+  LEDs:
+    quick1: ffffff
+    asia: 000000
+    southAmerica: ffffff
+    upperArrow: 000000
+    videoMode: ffffff
+    australia: 000000
+    northAmerica: 000000
+    extraBall: ffffff
+    scanner: ffffff
+    antarctica: 000000
+
+- tocks: 1
+  LEDs:
+    quick3: ffffff
+    quick1: 000000
+    centreLock: ffffff
+    southAmerica: 000000
+    timeWarp: ffffff
+    warpRight2: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    warpRight1: ffffff
+    quick4: ffffff
+
+- tocks: 1
+  LEDs:
+    quick3: 000000
+    centreLock: 000000
+    scanN: ffffff
+    warpRight4: ffffff
+    timeWarp: 000000
+    quickArrow: ffffff
+    videoMode: 000000
+    warpR: ffffff
+    warpP: ffffff
+    warpRight2: 000000
+    scanA: 000000
+    magnetN: ffffff
+    extraBall: 000000
+    warpRight5: ffffff
+    scanner: 000000
+    centreArrow: 000000
+    warpRight1: 000000
+    quick4: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: ffffff
+    magnetE: ffffff
+    scanN: 000000
+    warpRight4: 000000
+    quickArrow: 000000
+    magnetT: ffffff
+    warpP: 000000
+    warpRight3: 000000
+
+- tocks: 1
+  LEDs:
+    warpRightArrow: 000000
+    magnetE: 000000
+    magnetN: 000000
+    warpRight5: 000000
+
+- tocks: 1
+  LEDs:
+    magnetT: 000000
+
+- tocks: 1
+  LEDs:
+    warpR: 000000
+
+- tocks: 1
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    ballSave: ffffff
+    liteI: ffffff
+    liteL: ffffff
+    bonusRight: ffffff
+    liteT: ffffff
+    liteE: ffffff
+    centreLock: ffffff
+    lock: ffffff
+    bonusLeft: ffffff
+
+- tocks: 2
+  LEDs:
+    ballSave: 000000
+    liteI: 000000
+    liteL: 000000
+    bonusRight: 000000
+    liteT: 000000
+    liteE: 000000
+    centreLock: 000000
+    lock: 000000
+    bonusLeft: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpRight5: ffffff
+    scanS: ffffff
+    scanA: ffffff
+    warpRight3: ffffff
+    scanner: ffffff
+    warpLeft1: ffffff
+    scanC: ffffff
+    scanN: ffffff
+    warpRight4: ffffff
+    warpLeft2: ffffff
+    warpLeft4: ffffff
+    warpLeft3: ffffff
+    warpRight2: ffffff
+    warpLeft5: ffffff
+    warpRight1: ffffff
+
+- tocks: 2
+  LEDs:
+    warpRight5: 000000
+    scanS: 000000
+    scanA: 000000
+    warpRight3: 000000
+    scanner: 000000
+    warpLeft1: 000000
+    scanC: 000000
+    scanN: 000000
+    warpRight4: 000000
+    warpLeft2: 000000
+    warpLeft4: 000000
+    warpLeft3: 000000
+    warpRight2: 000000
+    warpLeft5: 000000
+    warpRight1: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    warpW: ffffff
+    upperArrow: ffffff
+    northAmerica: ffffff
+    africa: ffffff
+    warpLeftArrow: ffffff
+    warpRightArrow: ffffff
+    asia: ffffff
+    timeWarp: ffffff
+    quickArrow: ffffff
+    warpR: ffffff
+    centreArrow: ffffff
+    lockArrow: ffffff
+    warpA: ffffff
+    warpP: ffffff
+    leftOrbitArrow: ffffff
+    antarctica: ffffff
+    southAmerica: ffffff
+    australia: ffffff
+    europe: ffffff
+
+- tocks: 2
+  LEDs:
+    warpW: 000000
+    upperArrow: 000000
+    northAmerica: 000000
+    africa: 000000
+    warpLeftArrow: 000000
+    warpRightArrow: 000000
+    asia: 000000
+    timeWarp: 000000
+    quickArrow: 000000
+    warpR: 000000
+    centreArrow: 000000
+    lockArrow: 000000
+    warpA: 000000
+    warpP: 000000
+    leftOrbitArrow: 000000
+    antarctica: 000000
+    southAmerica: 000000
+    australia: 000000
+    europe: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+
+- tocks: 3
+  LEDs:
+    magnetE: ffffff
+    lightVideo: ffffff
+    quick5: ffffff
+    superWarp: ffffff
+    quick3: ffffff
+    magnetN: ffffff
+    quick2: ffffff
+    quick1: ffffff
+    shootAgain: ffffff
+    magnetT: ffffff
+    mystery: ffffff
+    magnetG: ffffff
+    holdX: ffffff
+    holdJets: ffffff
+    extraBall: ffffff
+    magnetM: ffffff
+    magnetA: ffffff
+    quick4: ffffff
+
+- tocks: 2
+  LEDs:
+    magnetE: 000000
+    lightVideo: 000000
+    quick5: 000000
+    superWarp: 000000
+    quick3: 000000
+    magnetN: 000000
+    quick2: 000000
+    quick1: 000000
+    shootAgain: 000000
+    magnetT: 000000
+    mystery: 000000
+    magnetG: 000000
+    holdX: 000000
+    holdJets: 000000
+    extraBall: 000000
+    magnetM: 000000
+    magnetA: 000000
+    quick4: 000000
+

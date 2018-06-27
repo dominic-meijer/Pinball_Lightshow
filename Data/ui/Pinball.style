@@ -1,0 +1,20 @@
+{
+	"Global": 
+	{
+		"fontColor": "#FFFFFF",
+		"texture"  : 
+		{
+			"color": "#55b1ee"
+		},
+
+		"highlight_texture": 
+		{
+			"color": "#55b1ee"
+		},
+
+		"activating_texture": 
+		{
+			"color": "#55b1ee"
+		}
+	}
+}

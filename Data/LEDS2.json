@@ -1,0 +1,379 @@
+[{
+    "name" : "shootAgain",
+    "x"    : 296,
+    "y"    : 138,
+    "color":"RED"
+}
+,{
+    "name" : "holdX",
+    "x"    : 240,
+    "y"    : 261,
+    "color":"RED"
+}
+,{
+    "name" : "holdJets",
+    "x"    : 226,
+    "y"    : 295,
+    "color":"RED"
+}
+,{
+    "name" : "scanC",
+    "x"    : 123,
+    "y"    : 363,
+    "color":"YELLOW"
+}
+,{
+    "name" : "scanS",
+    "x"    : 80,
+    "y"    : 383,
+    "color":"YELLOW"
+}
+,{
+    "name" : "scanA",
+    "x"    : 469,
+    "y"    : 363,
+    "color":"YELLOW"
+}
+,{
+    "name" : "lightVideo",
+    "x"    : 182,
+    "y"    : 402,
+    "color":"RED"
+}
+,{
+    "name" : "scanN",
+    "x"    : 509,
+    "y"    : 383,
+    "color":"YELLOW"
+}
+,{
+    "name" : "quick1",
+    "x"    : 393,
+    "y"    : 368,
+    "color":"RED"
+}
+,{
+    "name" : "quick2",
+    "x"    : 405,
+    "y"    : 400,
+    "color":"RED"
+}
+,{
+    "name" : "quick3",
+    "x"    : 417,
+    "y"    : 430,
+    "color":"RED"
+}
+,{
+    "name" : "quick4",
+    "x"    : 430,
+    "y"    : 462,
+    "color":"RED"
+}
+,{
+    "name" : "quick5",
+    "x"    : 442,
+    "y"    : 494,
+    "color":"RED"
+}
+,{
+    "name" : "warpP",
+    "x"    : 472,
+    "y"    : 477,
+    "color":"WHITE"
+}
+,{
+    "name" : "ballSave",
+    "x"    : 296,
+    "y"    : 200,
+    "color":"GREEN"
+}
+,{
+    "name" : "mystery",
+    "x"    : 153,
+    "y"    : 471,
+    "color":"RED"
+}
+,{
+    "name" : "superWarp",
+    "x"    : 168,
+    "y"    : 436,
+    "color":"RED"
+}
+,{
+    "name" : "warpW",
+    "x"    : 121,
+    "y"    : 476,
+    "color":"WHITE"
+}
+,{
+    "name" : "warpLeft1",
+    "x"    : 229,
+    "y"    : 442,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpLeft2",
+    "x"    : 219,
+    "y"    : 469,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpLeft3",
+    "x"    : 208,
+    "y"    : 497,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpLeft4",
+    "x"    : 198,
+    "y"    : 524,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpLeft5",
+    "x"    : 188,
+    "y"    : 551,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpLeftArrow",
+    "x"    : 172,
+    "y"    : 591,
+    "color":"WHITE"
+}
+,{
+    "name" : "leftOrbitArrow",
+    "x"    : 133,
+    "y"    : 520,
+    "color":"WHITE"
+}
+,{
+    "name" : "africa",
+    "x"    : 237,
+    "y"    : 362,
+    "color":"WHITE"
+}
+,{
+    "name" : "asia",
+    "x"    : 308,
+    "y"    : 413,
+    "color":"WHITE"
+}
+,{
+    "name" : "southAmerica",
+    "x"    : 351,
+    "y"    : 447,
+    "color":"WHITE"
+}
+,{
+    "name" : "atlantis",
+    "x"    : 356000,
+    "y"    : 497000,
+    "color":"BLACK"
+}
+,{
+    "name" : "northAmerica",
+    "x"    : 300,
+    "y"    : 504,
+    "color":"WHITE"
+}
+,{
+    "name" : "antarctica",
+    "x"    : 307,
+    "y"    : 548,
+    "color":"WHITE"
+}
+,{
+    "name" : "australia",
+    "x"    : 309,
+    "y"    : 599,
+    "color":"WHITE"
+}
+,{
+    "name" : "europe",
+    "x"    : 274,
+    "y"    : 637,
+    "color":"WHITE"
+}
+,{
+    "name" : "magnetM",
+    "x"    : 218,
+    "y"    : 675,
+    "color":"RED"
+}
+,{
+    "name" : "magnetA",
+    "x"    : 218,
+    "y"    : 708,
+    "color":"RED"
+}
+,{
+    "name" : "magnetG",
+    "x"    : 218,
+    "y"    : 741,
+    "color":"RED"
+}
+,{
+    "name" : "liteE",
+    "x"    : 277,
+    "y"    : 682,
+    "color":"GREEN"
+}
+,{
+    "name" : "liteT",
+    "x"    : 266,
+    "y"    : 713,
+    "color":"GREEN"
+}
+,{
+    "name" : "liteI",
+    "x"    : 254,
+    "y"    : 743,
+    "color":"GREEN"
+}
+,{
+    "name" : "liteL",
+    "x"    : 242,
+    "y"    : 772,
+    "color":"GREEN"
+}
+,{
+    "name" : "lock",
+    "x"    : 230,
+    "y"    : 803,
+    "color":"GREEN"
+}
+,{
+    "name" : "centreLock",
+    "x"    : 371,
+    "y"    : 655,
+    "color":"GREEN"
+}
+,{
+    "name" : "timeWarp",
+    "x"    : 359,
+    "y"    : 684,
+    "color":"WHITE"
+}
+,{
+    "name" : "videoMode",
+    "x"    : 336,
+    "y"    : 742,
+    "color":"ORANGE"
+}
+,{
+    "name" : "scanner",
+    "x"    : 348,
+    "y"    : 713,
+    "color":"YELLOW"
+}
+,{
+    "name" : "extraBall",
+    "x"    : 325,
+    "y"    : 770,
+    "color":"RED"
+}
+,{
+    "name" : "upperArrow",
+    "x"    : 291,
+    "y"    : 749,
+    "color":"WHITE"
+}
+,{
+    "name" : "centreArrow",
+    "x"    : 307,
+    "y"    : 814,
+    "color":"WHITE"
+}
+,{
+    "name" : "warpA",
+    "x"    : 243,
+    "y"    : 848,
+    "color":"WHITE"
+}
+,{
+    "name" : "lockArrow",
+    "x"    : 203,
+    "y"    : 871,
+    "color":"WHITE"
+}
+,{
+    "name" : "warpR",
+    "x"    : 347,
+    "y"    : 847,
+    "color":"WHITE"
+}
+,{
+    "name" : "magnetN",
+    "x"    : 361,
+    "y"    : 798,
+    "color":"RED"
+}
+,{
+    "name" : "magnetE",
+    "x"    : 382,
+    "y"    : 771,
+    "color":"RED"
+}
+,{
+    "name" : "magnetT",
+    "x"    : 402,
+    "y"    : 745,
+    "color":"RED"
+}
+,{
+    "name" : "warpRightArrow",
+    "x"    : 446,
+    "y"    : 675,
+    "color":"WHITE"
+}
+,{
+    "name" : "warpRight5",
+    "x"    : 432,
+    "y"    : 638,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpRight4",
+    "x"    : 422,
+    "y"    : 610,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpRight3",
+    "x"    : 412,
+    "y"    : 583,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpRight2",
+    "x"    : 402,
+    "y"    : 556,
+    "color":"YELLOW"
+}
+,{
+    "name" : "warpRight1",
+    "x"    : 392,
+    "y"    : 529,
+    "color":"YELLOW"
+}
+,{
+    "name" : "quickArrow",
+    "x"    : 460,
+    "y"    : 543,
+    "color":"WHITE"
+}
+,{
+    "name" : "bonusLeft",
+    "x"    : 432,
+    "y"    : 1074,
+    "color":"GREEN"
+}
+,{
+    "name" : "bonusRight",
+    "x"    : 483,
+    "y"    : 1082,
+    "color":"GREEN"
+}
+]

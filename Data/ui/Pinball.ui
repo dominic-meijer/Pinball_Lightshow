@@ -1,0 +1,101 @@
+{
+	"name": "Main Menu",
+	"stylesheet": "Data/ui/Pinball.style",
+	"elements": 
+	[
+		{
+			"name": "de_kast",
+			"type": "Panel",
+			"x": 460,
+			"y": 0,
+			"width": 510,
+			"height": 1020,
+			"texture": 
+			{
+				"atlas": "de_kast",
+				"atlasElement": "de_kast",
+				"color": "#FFFFFF"
+			}
+		},
+
+		{
+			"name": "control_panel",
+			"type": "Panel",
+			"width": "20%",
+			"height": "100%",
+			"elements": 
+			[
+				{
+					"name": "play_button",
+					"type": "Button",
+					"x": "5%",
+					"y": "1%",
+					"width": "90%",
+					"height": "5%",
+					"label": "PLAY"
+				},
+
+				{
+					"name": "export_button",
+					"type": "Button",
+					"x": "5%",
+					"y": "7%",
+					"width": "90%",
+					"height": "5%",
+					"label": "EXPORT"
+				},
+
+				{
+					"name": "led_name",
+					"type": "Text",
+					"x": "5%",
+					"y": "13%",
+					"width": "90%",
+					"height": "5%",
+					"label": ""
+				}
+			]
+		},
+
+		{
+			"name": "slider_container",
+			"type": "Container",
+			"x": "20%",
+			"y": "95%",
+			"width": "80%",
+			"height": "5%",
+			"elements": 
+			[
+				{
+					"name": "frame_slider",
+					"type": "Slider",
+					"x": "4%",
+					"width": "92%"
+				},
+
+				{
+					"name": "frame_minus",
+					"type": "Button",
+					"label": "-",
+					"width": "4%"
+				},
+
+				{
+					"name": "frame_plus",
+					"type": "Button",
+					"label": "+",
+					"x": "96%",
+					"width": "4%"
+				}
+			]
+		},
+
+		{
+			"name": "fps",
+			"type": "Text",
+			"x": "93%",
+			"y": 5,
+			"text": "FPS:"
+		}
+	]
+}
